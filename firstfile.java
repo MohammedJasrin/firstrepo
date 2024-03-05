@@ -5,5 +5,6 @@ public class Demo
     System.out.println("First file");
     System.out.println("Mohammed Jasrin")
     System.out.println("Stash")
+    System.out.println("Pre-commithook")
   }
 }
